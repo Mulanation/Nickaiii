@@ -1,0 +1,13 @@
+
+{
+  "name": "nick-ai",
+  "version": "1.0.0",
+  "description": "NICK AI Web Assistant",
+  "main": "netlify/functions/chat.js",
+  "scripts": {
+    "start": "echo NICK AI is deployed on Netlify"
+  },
+  "dependencies": {
+    "openai": "^5.20.0"
+  }
+}
